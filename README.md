@@ -21,7 +21,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=DanielHidd315&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHidd315&theme=tokyonight)
 ---
 
 ### 🔗 Connect with me
